@@ -1,5 +1,6 @@
 #Git 教程
 
+<<<<<<< HEAD
 -fix-B
--feature -A test
+-fix-B test B
 
