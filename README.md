@@ -5,3 +5,4 @@
 -fix-B test B
 -feature-C
 -feature-D
+-feature-E
